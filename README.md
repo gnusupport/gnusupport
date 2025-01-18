@@ -2,7 +2,7 @@
 
 ## Learn about Free Software
 
-What is Free Software? - GNU Project - Free Software Foundation
+What is Free Software? - GNU Project - Free Software Foundation  
 https://www.gnu.org/philosophy/free-sw.html
 
 <!--
